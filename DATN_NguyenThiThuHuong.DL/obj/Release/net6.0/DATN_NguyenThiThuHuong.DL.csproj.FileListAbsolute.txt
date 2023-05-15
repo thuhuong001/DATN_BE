@@ -1,0 +1,15 @@
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\bin\Release\net6.0\DATN_NguyenThiThuHuong.DL.deps.json
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\bin\Release\net6.0\DATN_NguyenThiThuHuong.DL.dll
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\bin\Release\net6.0\DATN_NguyenThiThuHuong.DL.pdb
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\bin\Release\net6.0\DATN_NguyenThiThuHuong.Common.dll
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\bin\Release\net6.0\DATN_NguyenThiThuHuong.Common.pdb
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.csproj.AssemblyReference.cache
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.AssemblyInfoInputs.cache
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.AssemblyInfo.cs
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.csproj.CoreCompileInputs.cache
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.csproj.CopyComplete
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.dll
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\refint\DATN_NguyenThiThuHuong.DL.dll
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\DATN_NguyenThiThuHuong.DL.pdb
+E:\DATN_ThuHuong\DATN_NguyenThiThuHuong474_BE\DATN_NguyenThiThuHuong.DL\obj\Release\net6.0\ref\DATN_NguyenThiThuHuong.DL.dll

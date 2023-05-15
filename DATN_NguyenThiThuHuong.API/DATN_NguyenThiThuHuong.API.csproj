@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DATN_NguyenThiThuHuong.BL\DATN_NguyenThiThuHuong.BL.csproj" />
+    <ProjectReference Include="..\DATN_NguyenThiThuHuong.Common\DATN_NguyenThiThuHuong.Common.csproj" />
+    <ProjectReference Include="..\DATN_NguyenThiThuHuong.DL\DATN_NguyenThiThuHuong.DL.csproj" />
+  </ItemGroup>
+
+</Project>
